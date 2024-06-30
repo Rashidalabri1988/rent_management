@@ -1,0 +1,2 @@
+{% load i18n %}
+<p>{% trans "Welcome to the Rental Management System" %}</p>
